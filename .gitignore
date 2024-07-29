@@ -1,0 +1,17 @@
+# SPDX-FileCopyrightText: 2024 Imran Mustafa <imran@imranmustafa.net>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+/target
+/classes
+/checkouts
+profiles.clj
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/.prepl-port
+.hgignore
+.hg/
